@@ -58,8 +58,9 @@ This project combines **Computer Vision** and **Natural Language Processing (NLP
 
 ## 🧠 Contributors
 
-- **Brian Kipchumba** (Lead Developer)  
-- *+2 Collaborators* (names to be added)
+- **Brian Kipchumba** 
+- **Borchar Gatwetch**
+- **Masaiwe Rufina**
 
 ---
 
