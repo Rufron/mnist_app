@@ -61,7 +61,7 @@ This project combines **Computer Vision** and **Natural Language Processing (NLP
 - **Brian Kipchumba** 
 - **Borchar Gatwetch**
 - **Masaiwe Rufina**
-
+- **Mary Karen Karumi**
 ---
 
 ## 💬 Feedback
